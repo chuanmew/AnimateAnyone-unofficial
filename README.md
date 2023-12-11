@@ -3,11 +3,16 @@
 ## Overview
 This repository contains an simple and unofficial implementation of [Animate Anyone](https://humanaigc.github.io/animate-anyone/). This project is built upon [magic-animate](https://github.com/magic-research/magic-animate/tree/main).
 
+## Requirments
+Same as [magic-animate](https://github.com/magic-research/magic-animate/tree/main).
+
+## Note
+**We are collecting video data for human motion, the TikTok dataset is too small for training a sufficiently robust model, if you are interested in collaborating with us, please email guoqin@stu.pku.edu.cn**
+
 ## ToDo
 - [x] **Release Training Code.**
 - [ ] **Release Inference Code and unofficial pre-trained weights.**
-- [ ] **Data Collection and Release (Within Legal Boundaries)**: Efforts to collect and refine the dataset for further training and improvements are ongoing, with the intention to release it publicly, adhering to legal constraints.
-- [ ] **We are collecting video data for human motion, the TikTok dataset is too small for training a sufficiently robust model, if you are interested in collaborating with us, please email guoqin@stu.pku.edu.cn**
+- [ ] **Data Release (Within Legal Boundaries)**: Efforts to collect and refine the dataset for further training and improvements are ongoing, with the intention to release it publicly, adhering to legal constraints.
 
 ## Training
 
